@@ -1,0 +1,33 @@
+{
+  "name": "JsBlog",
+  "version": "0.0.5",
+  "description": "Nodejs, angular and mongo based blogging system",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vikene/jsblog"
+  },
+  "keywords": [
+    "blog",
+    "nodejs",
+    "angularjs",
+    "mongo",
+    "database",
+    "minimal",
+    "template",
+    "blogger"
+  ],
+"dependencies" :{
+	"express":"~4.9.0",
+
+}
+  "author": "vikene (Vigneash Sundar)",
+  "license": "GNU GPL V2",
+  "bugs": {
+    "url": "https://github.com/vikene/jsblog/issues"
+  },
+  "homepage": "https://github.com/vikene/jsblog"
+}
